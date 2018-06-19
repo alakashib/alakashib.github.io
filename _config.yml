@@ -7,9 +7,9 @@ url: "alakashib.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
-disqus_username: disqus_username
+username: Baneen
+user_description: Muslim Woman passionate about Interfaith work.
+disqus_username:
 
 # Social Media
 # Remove the item if you don't need it
@@ -18,7 +18,6 @@ facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
 linkedin_username: linkedin_username
-medium_username: medium_username
 
 # Build settings
 markdown: kramdown
